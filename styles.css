@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+/* CSS styling for the clock display */
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+}
+
+#timer {
+	font-size: 2em;
+	color: #333;
+}
